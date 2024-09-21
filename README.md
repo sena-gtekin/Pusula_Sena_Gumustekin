@@ -19,7 +19,7 @@ Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_S
    Proje klasöründe komut satırını açarak Jupyter Notebook'u başlatın:
 
  **Notebook'u Açın**:
-   `side_effect_analysis.ipynb` dosyasını Jupyter Notebook arayüzünden açın.
+   `Pusula_Sena_Gumustekin.ipynb` dosyasını Jupyter Notebook arayüzünden açın.
    
  **Excel Dosyasının Yolunu Kontrol Edin**:
    Notebook'un başlangıcında bulunan veri okuma hücresinde (örneğin, `pd.read_excel('side_effect_data_1.xlsx')`), Excel dosyasının yolunu kontrol edin. Eğer dosya ile notebook aynı dizindeyse, bu adımı değiştirmeye gerek yoktur. Değilse, dosya yolunu uygun şekilde düzenleyin.
@@ -28,7 +28,7 @@ Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_S
    Analiz ve veri işleme adımlarını görmek için hücreleri sırayla çalıştırın. Tüm grafikler ve çıktılar notebook içinde görüntülenecektir.
 
 ## Notlar
-- Proje boyunca tüm kod ve açıklamalar `side_effect_analysis.ipynb` dosyasında mevcuttur.
+- Proje boyunca tüm kod ve açıklamalar `Pusula_Sena_Gumustekin.ipynb` dosyasında mevcuttur.
 - Excel dosyasının doğru şekilde okunabilmesi için notebook ve Excel dosyasının aynı dizinde olduğundan emin olun.
 
  <summary><h3></h3>Projemin genel görüntüleri</summary>
