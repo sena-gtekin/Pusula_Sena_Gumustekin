@@ -10,7 +10,7 @@ Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_S
 <li>Scikit-Learn (sklearn): Veri ön işleme (LabelEncoder, StandardScaler, SimpleImputer) ve makine öğrenmesi modelleri için.</li>
 <li>Openpyxl: Excel dosyalarını okumak ve yazmak için.</li>
 </ul>
- **Projeyi Klonlayın veya İndirin**:
+  Projeyi Klonlayın veya İndirin 
    Projeyi GitHub'dan klonlayarak veya zip dosyası olarak indirip açarak çalıştırabilirsiniz:
 
     git clone https://github.com/sena-gtekin/Pusula_Sena_Gumustekin.git
