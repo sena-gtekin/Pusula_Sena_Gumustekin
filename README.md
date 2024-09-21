@@ -19,9 +19,9 @@ Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_S
     ```
 
  **Jupyter Notebook'u Başlatın**:
-   Proje klasöründe terminal veya komut satırını açarak Jupyter Notebook'u başlatın:
+   Proje klasöründe komut satırını açarak Jupyter Notebook'u başlatın:
 
-    ```bash
+    ```
     jupyter notebook
     ```
 
@@ -38,7 +38,6 @@ Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_S
 - Proje boyunca tüm kod ve açıklamalar `side_effect_analysis.ipynb` dosyasında mevcuttur.
 - Excel dosyasının doğru şekilde okunabilmesi için notebook ve Excel dosyasının aynı dizinde olduğundan emin olun.
 
-<summary><h3></h3>Git Clone https://github.com/sena-gtekin/Pusula_Sena_Gumustekin.git</summary>
  <summary><h3></h3>Projemin genel görüntüleri</summary>
 https://imgur.com/a/aXNNyW7
  <summary><h3></h3>Projede Yaptıklarım</summary>
