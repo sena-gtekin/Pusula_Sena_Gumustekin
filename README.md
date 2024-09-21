@@ -4,4 +4,9 @@ Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_S
 https://imgur.com/a/aXNNyW7
  <summary><h3></h3>Projede Yaptıklarım</summary>
  Bu proje, ilaçların yan etkileri ile ilgili bir veri setini analiz ederek çeşitli öngörüsel modeller oluşturmayı amaçlamaktadır. Verinin analizi ve öngörü modelleri oluşturulmadan önce, veri seti üzerinde Exploratory Data Analysis (EDA) ve veri ön işleme adımları uygulanmıştır. Proje, sağlık verileri üzerinde çalışarak hastaların ilaç kullanımına ilişkin olası yan etkileri öngörebilmeyi hedeflemektedir.
-
+<summary><h3></h3>Projemi çalıştırmak için ihtiyacınız olan kütüphaneler</summary>
+Pandas: Veri analizi ve veri işleme için.
+Matplotlib: Veri görselleştirme için.
+Seaborn: Gelişmiş veri görselleştirme için.
+Scikit-Learn (sklearn): Veri ön işleme (LabelEncoder, StandardScaler, SimpleImputer) ve makine öğrenmesi modelleri için.
+Openpyxl: Excel dosyalarını okumak ve yazmak için.
