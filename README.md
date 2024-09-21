@@ -1,13 +1,6 @@
 <summary><h1>Sena Gümüştekin senagumustekin86@gmail.com</h1></summary>
 Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_Sena_Gumustekin(Pusula_Sena_Gumustekin.ipynb) dosyasına tıklayarak projeme ulaşabilirsiniz ayrıca üstündeki başlıklar sayesinde açıklamalarıma ulaşabilirsiniz. Onun altındaki side_effect_data 1.xlsx dosyası ise verilerimin bulunduğu Excel dosyasıdır.
-<summary><h3></h3>Projemi çalıştırmak için ihtiyacınız olan kütüphaneler</summary>
- <ul>
-<li>Pandas: Veri analizi ve veri işleme için.</li>
-<li>Matplotlib: Veri görselleştirme için.</li>
-<li>Seaborn: Gelişmiş veri görselleştirme için.</li>
-<li>Scikit-Learn (sklearn): Veri ön işleme (LabelEncoder, StandardScaler, SimpleImputer) ve makine öğrenmesi modelleri için.</li>
-<li>Openpyxl: Excel dosyalarını okumak ve yazmak için.</li>
-</ul>
+
 ## Projeyi Çalıştırma Adımları
 <summary><h3></h3>Projemi çalıştırmak için ihtiyacınız olan kütüphaneler</summary>
  <ul>
@@ -20,9 +13,9 @@ Projemi Jupyter Notebook'tan oluşturdum. Pandas tut dosyasına girerek Pusula_S
  **Projeyi Klonlayın veya İndirin**:
    Projeyi GitHub'dan klonlayarak veya zip dosyası olarak indirip açarak çalıştırabilirsiniz:
 
-    ```bash
-    git clone <proje-repo-linki>
-    cd <proje-klasörü>
+    ```
+    git clone https://github.com/sena-gtekin/Pusula_Sena_Gumustekin.git
+    
     ```
 
  **Jupyter Notebook'u Başlatın**:
