@@ -12,3 +12,4 @@ https://imgur.com/a/aXNNyW7
 <li>Scikit-Learn (sklearn): Veri ön işleme (LabelEncoder, StandardScaler, SimpleImputer) ve makine öğrenmesi modelleri için.</li>
 <li>Openpyxl: Excel dosyalarını okumak ve yazmak için.</li>
 </ul>
+<summary><h3></h3>Git Clone https://github.com/sena-gtekin/Pusula_Sena_Gumustekin.git</summary>
